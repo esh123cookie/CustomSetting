@@ -1,6 +1,6 @@
 <?php
 
-namespace nikipuh;
+namespace CustomSetting;
 
 use pocketmine\event\Listener;
 use pocketmine\event\server\DataPacketReceiveEvent;
