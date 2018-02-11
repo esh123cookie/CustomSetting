@@ -6,6 +6,6 @@ api:
 - 3.0.0-ALPHA9
 - 3.0.0-ALPHA10
 - 3.0.0-ALPHA11
-main: nikipuh\Main
+main: CustomSetting\Main
 author: LeNick
 ...
