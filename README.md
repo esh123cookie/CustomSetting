@@ -6,7 +6,7 @@ This Plugin gives you a setting page for your Server :)
 # Tips for customization
 ## Want to change the icon? 
 - go to the settings.json file in your plugin folder
- - once you are there go to the part that says icon and there should be a link there for a unicorn icon
+ - once you are there go to the part that says icon and there should be a link there for an example icon
   - go find a link to an image that you would like to use and copy and paste it where the example one has been placed
 # Issues? 
 contact me here at shatteredatom2@gmail.com or open an issue and i will get back to you regarding said issue
