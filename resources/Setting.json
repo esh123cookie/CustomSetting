@@ -1,14 +1,14 @@
 {
   "type": "custom_form",
-  "title": "Your Setting :)",
+  "title": "§3Server Information",
   "icon": {
     "type": "url",
-    "data": "https://img.icons8.com/color/96/000000/crafting-table.png"
+    "data": "https://www.bing.com/images/blob?bcid=SAkMxDuqPaUA3Q"
   },
   "content": [
     {
       "type": "label",
-      "text": "FILL IN TEXT HERE! Example text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+      "text": "§7===========================\n§eWelcome\n§l§dShop§r §7:: https://mcpeprisonblock.buycraft.net/\n§l§aVote §r§7:: https://mcpe.guru/PrisonBlock \n§b§lDiscord§r §7:: https://discord.gg/RpePmxY\n§7===========================\n\n\n§rCommands\n- §aTutorial§r"
     }
   ]
 }
